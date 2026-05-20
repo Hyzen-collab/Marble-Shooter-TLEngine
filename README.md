@@ -4,6 +4,9 @@ A 3D marble shooting game built in C++ using the TL-Engine.
 The player selects a target block from a wall using an arrow 
 indicator and launches a marble to hit it.
 
+## State Transition Diagram
+![State Transition Diagram](Diagrams/state_transition_diagram.png)
+
 ## Features
 - 10-block destructible wall as the target
 - Arrow targeting system that rotates to aim at selected block
@@ -38,4 +41,5 @@ indicator and launches a marble to hit it.
 |-------------|-------------|
 | `Assessment_CO1301.cpp` | Main game source code |
 | `Media/` | All 3D models and textures |
+| `Diagrams/` | State transition diagram |
 | `Assessment_CO1301.sln` | Visual Studio solution file |
