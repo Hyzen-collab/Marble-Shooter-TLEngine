@@ -5,7 +5,7 @@ The player selects a target block from a wall using an arrow
 indicator and launches a marble to hit it.
 
 ## State Transition Diagram
-![State Transition Diagram](Diagrams/state_transition_diagram.png)
+![State Transition Diagram](Diagram/STD.jpg)
 
 ## Features
 - 10-block destructible wall as the target
